@@ -1,0 +1,2 @@
+BOT_TOKEN = "7818210445:AAG-oF7FjQeQbiMYnyU7nhBnrEZ4MR7GaJ0"
+WEB_APP_URL = "https://84snake48.free.nf"
